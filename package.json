@@ -1,0 +1,15 @@
+{
+  "name": "md-notes",
+  "version": "1.0.0",
+  "description": "CLI tool for organizing Markdown notes",
+  "main": "src/index.js",
+  "bin": {
+    "md-notes": "./bin/md-notes"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["notes", "markdown", "cli"],
+  "author": "Your Name",
+  "license": "MIT"
+}
